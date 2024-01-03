@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **C++ , Data Structures and Algorithms**
+- 💬 Ask me about **JavaScript, Next.js, Redis, C++ , Data Structures and Algorithms**
 
 - 📫 How to reach me **shreyasthana545@gmail.com**
 
